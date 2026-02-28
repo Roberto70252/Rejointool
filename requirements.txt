@@ -1,0 +1,12 @@
+rich
+psutil
+requests
+pywin32
+selenium
+webdriver-manager
+mss
+opencv-python
+numpy
+keyboard
+cryptography
+rich-pixels
